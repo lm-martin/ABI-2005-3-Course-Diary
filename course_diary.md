@@ -1,8 +1,6 @@
 # Notes about git
 
-In this course we are being introduced to git
 
-we will learn about git commands and workflows
 
 In git we have two repositories, one local and one remote
 
