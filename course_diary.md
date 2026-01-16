@@ -10,6 +10,12 @@ A repository consists of working directory, staging area and repository proper
 
 git offers wide range of commands to work in the different areas of a repository
 
+
+#Concepts
+
+#### Commit
+A commit is a saved snapshot of your project at a specific point in time
+
 # Here I provide a list of the command most offen used, as well as a quick explanation of their function
 
 # Command list:
